@@ -62,7 +62,7 @@
 ((^)|(.))trackscale.
 ((^)|(.))trkmenowapptwtree((^)|(.))
 ((^)|(.))events.*
-/(.?)log(|s)\./
+(.?)log(|s)\./
 ((^)|(.))smaato.*
 ((^)|(.))mopub.*
 ((^)|(.))app-measurement((^)|(.))
