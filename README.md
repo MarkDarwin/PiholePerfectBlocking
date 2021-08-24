@@ -8,4 +8,4 @@ Go to your Pi-hole admin portal, click groups, then click adlist, from there add
 2: https://dbl.oisd.nl/extra/
 
 ## REGEX
-Go to your Pi-hole admin portal, click blacklist, from there you have to manually copy and paste each item from the REGEX.txt file in this repo, make sure the toggle is set to blacklist, and save it. No need to update gravity after this step.
+Go to your Pi-hole admin portal, click blacklist, from there copy and paste the raw list into the blacklist box and make sure the toggle is on REGEX then save.
