@@ -76,3 +76,4 @@
 ((^)|(.))doubleclick((^)|(.))
 ((^)|(.))scorecardresearch((^)|(.))
 ((^)|(.))trackscale.*
+(\.?)redfast\.
