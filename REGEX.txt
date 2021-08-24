@@ -1,4 +1,4 @@
-# You have to manually add these entries as REGEX in the Blacklist section
+# copy and paste this list into the pihole blacklist section, make sure it is toggled to REGEX
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
 ^(.+[_.-])?telemetry[_.-]
