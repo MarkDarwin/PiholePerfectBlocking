@@ -77,3 +77,4 @@
 ((^)|(.))scorecardresearch((^)|(.))
 ((^)|(.))trackscale.*
 (\.?)redfast\.
+\blogs?\b
