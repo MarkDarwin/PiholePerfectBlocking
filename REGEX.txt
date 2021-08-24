@@ -57,12 +57,9 @@
 (^|\.)bugsnag\.com$
 (^|\.)redshell\.io$
 (^|\.)treasuredata\.com$
-(^|\.)unity(|3d)\.com$
 (^|\.)unityads(|\.co)\.com$
-((^)|(.))trackscale.
 ((^)|(.))trkmenowapptwtree((^)|(.))
 ((^)|(.))events.*
-(.?)log(|s)\./
 ((^)|(.))smaato.*
 ((^)|(.))mopub.*
 ((^)|(.))app-measurement((^)|(.))
