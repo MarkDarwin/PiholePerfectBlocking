@@ -7,3 +7,6 @@ Go to your Pi-hole admin portal, click blacklist, from there copy and paste the 
 ## Blocklists
 Go to your Pi-hole admin portal, click groups, then click adlist, from there add this list.
 https://raw.githubusercontent.com/CipherOps/HostsBlocklist/main/hosts.txt
+
+# Adblocking Discord for Pi-hole, AdGuard Home, or any other adblocking discussions
+https://discord.gg/VzThBmB
