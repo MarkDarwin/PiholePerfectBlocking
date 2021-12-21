@@ -73,6 +73,5 @@
 ((^)|(.))svr-algorix.*
 ((^)|(.))imrworldwide((^)|(.))
 ((^)|(.))doubleclick((^)|(.))
-((^)|(.))scorecardresearch((^)|(.))
 ((^)|(.))trackscale.*
 (\.?)redfast\.
