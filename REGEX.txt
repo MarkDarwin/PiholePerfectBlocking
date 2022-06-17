@@ -75,3 +75,4 @@
 ((^)|(.))doubleclick((^)|(.))
 ((^)|(.))trackscale.*
 (\.?)redfast\.
+((^)|(.))amazon-adsystem.com.*
