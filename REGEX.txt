@@ -97,3 +97,4 @@
 ((^)|(.))ads.roku.com.*
 ((^)|(.))logs.roku.com.*
 .*\.g[0-9]+\..*
+((^)|(.))tracker.*
