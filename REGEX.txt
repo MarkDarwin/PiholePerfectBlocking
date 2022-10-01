@@ -99,3 +99,9 @@
 .*\.g[0-9]+\..*
 ((^)|(.))tracker.*
 ((^)|(.))qualtrics.*
+((^)|(.))s4mdsp.*
+((^)|(.))auply.*
+((^)|(.))skj28trk.*
+((^)|(.))cronusbid.*
+((^)|(.))siteintercept.*
+((^)|(.))rtbtrackers.*
