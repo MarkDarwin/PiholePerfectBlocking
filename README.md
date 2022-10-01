@@ -4,6 +4,7 @@ A one-stop guide to great adblocking on Pi-hole.
 ## REGEX
 Go to your Pi-hole admin portal, click blacklist, from there copy and paste the raw list above into the blacklist box and make sure the toggle is on REGEX then save.
 
+## Adlists
 Then you want to head to Adlist, and add the following three lists, save then update gravity, and there ya go, perfect Pi-hole adblocking.<br>
 https://dbl.oisd.nl/ <br>
 https://dbl.oisd.nl/extra/<br>
