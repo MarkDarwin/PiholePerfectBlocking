@@ -78,6 +78,11 @@
 ((^)|(.))amazon-adsystem.com.*
 ((^)|(.))logs.roku.com.*
 ((^)|(.))ads.roku.com.*
+((^)|(.))cloudservices.roku.com.*
+((^)|(.))assets.sr.roku.com.*
+((^)|(.))prod.mobile.roku.com.*
+((^)|(.))wwwimg.roku.com.*
+((^)|(.))amoeba.web.roku.com.*
 .*\.g[0-9]+\..*
 ((^)|(.))tracker.*
 ((^)|(.))qualtrics.*
