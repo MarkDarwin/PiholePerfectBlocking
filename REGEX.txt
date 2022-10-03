@@ -92,3 +92,9 @@
 ((^)|(.))cronusbid.*
 ((^)|(.))siteintercept.*
 ((^)|(.))rtbtrackers.*
+((^)|(.))sekindo\.com.*
+((^)|(.))primis\.tech.*
+((^)|(.))jwplayer\.com.*
+((^)|(.))gumgum\.com.*
+((^)|(.))playwire\.com.*
+((^)|(.))anyclip\.com.*
